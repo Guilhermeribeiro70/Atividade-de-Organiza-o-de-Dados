@@ -2,7 +2,7 @@
 # 🍔 FoodConnect – Sistema Inteligente de Delivery e Gestão de Restaurantes
 
 ## 📖 Descrição
-O **FoodConnect** é uma plataforma inteligente de delivery desenvolvida como projeto da disciplina **Pensamento Computacional** no curso de Engenharia de Software.
+O **FoodConnect** é uma plataforma inteligente de delivery desenvolvida como projeto da disciplina **Pensamento Computacional** no curso de ADS.
 
 O sistema tem como objetivo conectar clientes, restaurantes e entregadores em uma única plataforma digital, oferecendo pedidos online, rastreamento em tempo real e recomendações inteligentes de refeições com base no perfil do usuário.
 
@@ -150,7 +150,7 @@ O projeto considera práticas de segurança baseadas nos princípios de Saltzer 
 # 📅 Entrega
 
 - **Disciplina:** Pensamento Computacional
-- **Curso:** Engenharia de Software
+- **Curso:** ADS
 - **Professora:** Kadidja Valéria
 - **Entrega:** Repositório GitHub da disciplina
 
